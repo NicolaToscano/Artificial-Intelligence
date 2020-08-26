@@ -1,2 +1,2 @@
-# Artificial Intelligence
+# Python
 Instagram account data analysis.
